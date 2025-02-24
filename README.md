@@ -53,7 +53,7 @@ Per crear encaminaments, s'ha d'instal·lar :
     
 			    <Switch>
 				    <Route  path="/"  component={Home}  /> 
-				    <Route  path="/pagina1"  component={Pagina1}  
+				    <Route  path="/pagina1"  component={Pagina1} />  
 				  </Switch>
 			</div>
 		 </>
